@@ -1,3 +1,3 @@
-let nome = "Olá, Muundo! Meu nome é Isabelly"
+let nome = "Olá, Muundo! Meu nome é "
 
 console.log (nome)
